@@ -17,12 +17,11 @@ paginate: 8
 excerpt_separator: <!-- more -->
 
 footer-links:
-  zhihu: 无忧s
+  zhihu: https://www.zhihu.com/people/wu-you-69-92
   email: easonpxz@sjtu.edu.cn
   github: easonpxz
 # rss: none
-  bilibili: 优然佩弦子
-  youtube: none
+  youtube: https://space.bilibili.com/510145874?spm_id_from=333.337.0.0
 
 footer-text: Copyright (c) 2024 easonpxz
 
